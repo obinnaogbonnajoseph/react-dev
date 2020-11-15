@@ -1,0 +1,26 @@
+{
+    "name": "react-dev",
+    "version": "1.0.0",
+    "description": "",
+    "main": "App.js",
+    "scripts": {
+        "format": "prettier \"src/**/*.{js,html}\" --write",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/obinnaogbonnajoseph/react-dev.git"
+    },
+    "keywords": [
+        "React"
+    ],
+    "author": "Obinna Ogbonna",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/obinnaogbonnajoseph/react-dev/issues"
+    },
+    "homepage": "https://github.com/obinnaogbonnajoseph/react-dev#readme",
+    "devDependencies": {
+        "prettier": "^2.1.2"
+    }
+}
