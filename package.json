@@ -21,6 +21,8 @@
     },
     "homepage": "https://github.com/obinnaogbonnajoseph/react-dev#readme",
     "devDependencies": {
+        "eslint": "^7.13.0",
+        "eslint-config-prettier": "^6.15.0",
         "prettier": "^2.1.2"
     }
 }
